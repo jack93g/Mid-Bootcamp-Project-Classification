@@ -1,1 +1,1 @@
-# midterm-project
+# Mid-Bootcamp-Project-Classification

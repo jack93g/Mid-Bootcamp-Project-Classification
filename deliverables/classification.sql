@@ -47,6 +47,8 @@ limit 10;
 select count(*)
 from credit_card_data;
 
+-- 19876
+
 -- 7. Now we will try to find the unique values in some of the categorical columns:
 
 -- What are the unique values in the column `Offer_accepted`?

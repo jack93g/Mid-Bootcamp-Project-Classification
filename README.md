@@ -5,7 +5,7 @@
 
 ## Stage 1
 
-- SQl
+- SQL
 
 ## Stage 2
 

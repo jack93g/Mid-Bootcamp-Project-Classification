@@ -17,7 +17,7 @@
 -->
 
 
-![CC Image](https://github.com/jack93g/Mid-Bootcamp-Project-Classification/blob/main/files/images.jpeg
+![CC Image](https://github.com/jack93g/Mid-Bootcamp-Project-Classification/blob/main/files/images.jpg
 )
 
 

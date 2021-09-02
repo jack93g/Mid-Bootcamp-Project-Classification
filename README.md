@@ -19,12 +19,12 @@
           <li><a href="#preamble">Preamble</a></li>
           <li><a href="#workflow">Workflow</a></li>
         <ul>
-    <li><a href="#stage-3">Stage 3 - Tableau</a></li>
+  <li><a href="#stage-3">Stage 3 - Tableau</a></li>
         <ul>
           <li><a href="#preamble">Preamble</a></li>
           <li><a href="#findings">Findings</a></li>
         <ul>
-    <li><a href="#libraries">Libraries</a></li>
+  <li><a href="#libraries">Libraries</a></li>
   </ol>
 </details>
 

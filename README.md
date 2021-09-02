@@ -16,8 +16,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-PICTURE HERE
 
+![CC Image](https://github.com/jack93g/Mid-Bootcamp-Project-Classification/blob/main/files/images.jpeg
+)
 
 
 

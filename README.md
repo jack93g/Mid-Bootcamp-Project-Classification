@@ -1,36 +1,77 @@
-# **Mid-Bootcamp-Project-Classification**
+<!--
+***
+***
+***
+*** 
+-->
 
-## Brief summary of project  
 
-- The first step was creating a database of credit card customers in SQL and carrying out some basic analysis of the data using SQL queries
-- Then I imported the data into a pandas dataframe and did some EDA and data cleaning
-- The aim of this stage was to create a classfication algorithm that could identify which customers said yes to the offer of a credit card and which said no
-- I used logistic regression with different sampling methods and KNN
-- Finally I did a deep dive into the data in tableau creating some dashboards to visualise various questions
 
----
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
+PICTURE HERE
+
+
+
+
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      </ul>
+    </li>
+    <li><a href="#stage-1">Stage 1 - SQL</a></li>
+    <li><a href="#stage-2">Stage 2 - Python</a></li>
+    <li><a href="#stage-3">Stage 3 - Tableau</a></li>
+    <li><a href="#libraries">Libraries</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
+
+
+
+
+
+
+
+<!-- Stage 1 -->
 ## Stage 1 - SQL
 
----
 
-## Stage 2 - Data cleaning and EDA 
 
-- exploring and cleaning the data in python
 
----
 
-## Stage 3 - Trying out different models to predict the target variable
+<!-- Stage 2 -->
+## Stage 2 - Python
 
-- data preprocessing and fitting the models
-- logistic regression and knn
 
----
 
-## Stage 4 - Conclusions 
 
-- which model was the best  
+<!-- Stage 3 -->
+## Stage 3 - Tableau
 
----
 
-## Stage 5 - Data analysis in Tableau
+
+
+<!-- Libraries -->
+## Libraries
+

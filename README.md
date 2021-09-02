@@ -1,4 +1,7 @@
 
+# **Midterm Project - Classification**
+
+
 ![CC Image](https://github.com/jack93g/Mid-Bootcamp-Project-Classification/blob/main/files/images.jpg
 )
 
@@ -9,88 +12,60 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+    <li><a href="#repository-structure">Repository Structure</a></li>  
     <li>
       <a href="#about-the-project">About The Project</a>
       </ul>
     </li>
-    <li><a href="#stage-1">Stage 1 - SQL</a></li>
-    <li>
-      <a href="#stage-2">Stage 2 - Python</a></li>
-        <ul>
-          <li><a href="#preamble">Preamble</a></li>
-          <li><a href="#workflow">Workflow</a></li>
-      </ul>
-      <li><a href="#stage-3">Stage 3 - Tableau</a></li>
-        <ul>
-        <li><a href="#preamble">Preamble</a></li>
-        <li><a href="#findings">Findings</a></li>
-        </ul>
-  <li><a href="#libraries">Libraries</a></li>
+    <li><a href="#workflow">Workflow</a></li>
+    <li><a href="#findings">Findings</a></li>
+    <li><a href="#libraries">Libraries</a></li>
   </ol>
 </details> 
 
 ---
 
+<!-- Repository Structure -->
+## **Repository Structure**  
 
+
+`Deliverables` : contains all the data files that have been generated throughout the project  
+`Images`: contains all the images used in the project and some visualisations from Tableau    
+`Files`: contains the original CSV and Excel customer marketing data files    
+
+
+---
 <!-- ABOUT THE PROJECT -->
 ## **About The Project**
 
-This project was my first end to end project and involved using all the skills I have learned so far as part of the bootcamp at Ironhack. We were provided with a dataset containing information about customers of a bank who were offered a credit card as part of a marketing campaign. The aims of the project were as follows:
+This project was my first end to end project and involved using all the skills I have learned so far as part of the data anlytics bootcamp at Ironhack. We were provided with a dataset containing information about bank customers who were offered a credit card as part of a marketing campaign. The main objective of this project was to build a classification algorithm in python which would identify which customers accepted the credit card offer and which ones didn't. We also had to create a database of the credit card marketing data in MYSQL workbench and carry out some SQL queries to answer various questions and then finally deepdive into the data in Tableau and create some visualisations and dashboards.
 
-- To create a database in MYSQL workbench based on the dataset we received and carry out some data analysis answering various questions using SQL queries.
-- Pull the data into a pandas dataframe in a juypter notebook and then carry out some EDA and data cleaning.
-- To build a machine learning algorithm in python which could identify customers who accepted the credit card offer.
-- Finally to analyse the data, identify trends and build dashboards in Tableau.
+---
+
+<!-- Workflow -->
+## **Workflow**
+
+- To create a database in MYSQL workbench based on the dataset we received and carry out some data analysis using SQL queries.
+- Pull the data into a pandas dataframe and then do some exploratory data analysis and data cleaning.
+- To build a machine learning algorithm in python which could identify whether a customer accepted the offer or not.
+- To deepdive into the data in Tableau, creating visualisations and dashboards.
 - To plan and implement the project using agile project management with a Kanban board on Github.
 
----
-
-<!-- Stage 1 -->
-## **Stage 1 - SQL**
-
 
 
 ---
 
-<!-- Stage 2 -->
-## **Stage 2 - Python**
+<!-- Findings -->
+## **Findings**
 
-### **Preamble**
-
-- The main aim of this stage of the project was to build a classification machine learning algorithm in python using the credit card marketing data which would identify whether customers accepted or rejected a credit card offer.
-- The dataset is heavily imbalanced towards one class of the target variable as around 94% of customers said no to the credit card offer and only 6% said yes. 
-- Due to the data imbalance my aim was to try and build a model which could succesfully identify datapoints from the minority class; customers who accepted the credit card offer.
-
-### **Workflow**
-
-- Imported the data from MYSQL workbench into a pandas dataframe. 
-- Cleaned the data, which included standardising headers and removing null values etc.
-- Explored the data and created visualisations to take a look at the distribution of the variables and check for outliers.
-- Preprocessed the data to prepare for modelling.
-- Tried logistic regression, KNN and random forest algorithms to predict the target variable.
-- Iterated on the models and dealt with the data imbalance of the target variable using different sampling methods such as oversampling and undersampling to try and improve model performance on the minority class. 
-- Used metrics such as precision and recall to decide on the quality of the algorithms.
-
-### **Summary**
 
 - 
+ 
 
 
 
----
 
-<!-- Stage 3 -->
-## **Stage 3 - Tableau**
-
-### **Premable**
-
-- In this part of the project I worked with the credit card marketing dataset in Tableau. 
-- As we saw in Stage 2 around 94% of customers accepted the company's offer of a credit card and around 6% rejected it.
-- The aim of the analysis at this stage was to see if we could find out any interesting facts about the demographics of customers who accepted the offer compared to ones who didn't and visualise the answers to such questions using sheets and dashboards in Tableau.
-
-### **Findings**
-- 
-- 
+PICTURE OF DASHBOARD OR GRAPH
 
 
 

@@ -67,7 +67,7 @@ Overall logistic regression with undersampling of the majority class or oversamp
 
 - Customers with low income were proportionally more likely to accept the credit card offer.
 
-![Income](Images/Income_Level.png
+![Income](Images/Income_level.png
 )
 
 - Customers with a low credit rating were more likely to accept the offer.
